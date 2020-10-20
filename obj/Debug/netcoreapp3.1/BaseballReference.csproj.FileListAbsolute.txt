@@ -1,0 +1,12 @@
+/Users/alexandercarver/Desktop/MIS_221/repos/BaseballReference/bin/Debug/netcoreapp3.1/BaseballReference.deps.json
+/Users/alexandercarver/Desktop/MIS_221/repos/BaseballReference/bin/Debug/netcoreapp3.1/BaseballReference.runtimeconfig.json
+/Users/alexandercarver/Desktop/MIS_221/repos/BaseballReference/bin/Debug/netcoreapp3.1/BaseballReference.runtimeconfig.dev.json
+/Users/alexandercarver/Desktop/MIS_221/repos/BaseballReference/bin/Debug/netcoreapp3.1/BaseballReference.dll
+/Users/alexandercarver/Desktop/MIS_221/repos/BaseballReference/bin/Debug/netcoreapp3.1/BaseballReference.pdb
+/Users/alexandercarver/Desktop/MIS_221/repos/BaseballReference/obj/Debug/netcoreapp3.1/BaseballReference.csprojAssemblyReference.cache
+/Users/alexandercarver/Desktop/MIS_221/repos/BaseballReference/obj/Debug/netcoreapp3.1/BaseballReference.AssemblyInfoInputs.cache
+/Users/alexandercarver/Desktop/MIS_221/repos/BaseballReference/obj/Debug/netcoreapp3.1/BaseballReference.AssemblyInfo.cs
+/Users/alexandercarver/Desktop/MIS_221/repos/BaseballReference/obj/Debug/netcoreapp3.1/BaseballReference.csproj.CoreCompileInputs.cache
+/Users/alexandercarver/Desktop/MIS_221/repos/BaseballReference/obj/Debug/netcoreapp3.1/BaseballReference.dll
+/Users/alexandercarver/Desktop/MIS_221/repos/BaseballReference/obj/Debug/netcoreapp3.1/BaseballReference.pdb
+/Users/alexandercarver/Desktop/MIS_221/repos/BaseballReference/obj/Debug/netcoreapp3.1/BaseballReference.genruntimeconfig.cache
